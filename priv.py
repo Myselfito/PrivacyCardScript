@@ -217,8 +217,14 @@ print "IMPORTANT! TO HAVE SCRIPT WORK PROPERLY FIRST RUN THE \"get cards\" FUNCT
 print
 print "Get cards will first get all your card data and make text files required to call other functions like Create Card(s), Close Card(s), Pause Card, etc."
 print
+
 intro()
+
 print
+
+open("newtext.py","w")
+open("newtext.py","w").close()
+
 action = raw_input("What do you want to do?: ")
 getAction()
 new_action = raw_input("Would you like to do something else?(Y/N): ")
