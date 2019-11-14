@@ -7,4 +7,6 @@ To get this token just log in to your Privacy account, open the Network tab thro
 
 I made config a py file as I got lazy to make a real config file. If anyone wants to add anything to the script feel free.
 
-Any questions you may dm me on twitter @chexmdc
+You must run the get cards function first every time you input a new authentication token! Or else script won't work.
+
+Any questions you may dm me on twitter @chxmdc
